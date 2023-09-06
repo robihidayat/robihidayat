@@ -1,6 +1,6 @@
 <h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi,</h2>
 
-Meet **Robi Hidayat**, just a normal software engineer from Indonesia with 5+ years of experience in the e-commerce industry. Most of the time was working with `java` or `typescript`, using various frameworks to build robust backend services using spring frameworks. Now working at [Accelbyte](https://www.accelbyte.io/), Ex [@doku](https://doku.co.id), [@databot](https://databot.co.id).
+Meet **Robi Hidayat**, just a normal software engineer from Indonesia with 5+ years of experience in the e-commerce industry. Most of the time was working with `java` or `typescript`, using various frameworks to build robust backend services using spring frameworks. Now working at [Accelbyte](https://www.accelbyte.io/), Ex [@doku](https://www.doku.com/id-ID), [@databot](https://www.databot-app.com/).
 
 ## 🔗 Connect with me
 
